@@ -2,7 +2,8 @@
 layout: project
 title: "GSK Immunohack: TwoBirds "
 ---
-<h1>GSK Immunohack: TwoBirds</h1>
+
+# GSK Immunohack: TwoBirds
 
 <span style="margin-bottom: 1em" class="image fit"><img style="border:3px solid black" src="/images/gsk-hackathon-winners.jpg" alt="" /></span>
 

@@ -2,7 +2,7 @@
 layout: project
 ---
 
-# Antimalarial Target Identification
+# Novel Antimalarial Drug Target Identification
 
 To identify the target of actinonin, we initially  attempted to isolate actinonin-resistant P. falciparum but failed using multiple selection methods, including chemical mutagenesis, that successfully selected resistance against other compounds. Therefore, we turned to Toxoplasma gondii, a related apicomplexan parasite, which contains an apicoplast of the same evolutionary origin, because it is easier to grow to large numbers and to genetically modify.
 
