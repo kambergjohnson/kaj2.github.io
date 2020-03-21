@@ -32,5 +32,7 @@ Here is a guide to the files in the site that you might want to edit:
 
 ## Misc todo
 
-  * Delete high school from LinkedIn.
+  * Delete high school from LinkedIn. (Or not, if you want to maintain the local connection)
+  * Update CV by pushing new version of resources/Amberg_Johnson_Katherine_CV.pdf
+
 
