@@ -15,10 +15,28 @@ sudo gem install bundler jekyll
 After that, you can build your site by running the following command in the top-level directory:
 
 ```
-bundle exec jekyll serve 2>/dev/null
+$ bundle exec jekyll serve 2>/dev/null
 ````
 
-The site should now be available at http://localhost:4000.
+Here's what the output should look like:
+
+```
+$ bundle exec jekyll serve 2>/dev/null
+Configuration file: /Users/philipjohnson/github/kaj2/kaj2.github.io/_config.yml
+            Source: /Users/philipjohnson/github/kaj2/kaj2.github.io
+       Destination: /Users/philipjohnson/github/kaj2/kaj2.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+                    done in 0.502 seconds.
+ Auto-regeneration: enabled for '/Users/philipjohnson/github/kaj2/kaj2.github.io'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+```
+
+The site should now be available at http://localhost:4000.  Each time you edit the source files, the site should be regenerated. Just refresh the page in your browser to see the update.
+
+If you are returned to the command line, then there was an error.  Re-run the command without the `serve 2>/dev/null` to see what went wrong. 
 
 ## Structure
 
